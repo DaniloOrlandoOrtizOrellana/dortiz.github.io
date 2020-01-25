@@ -1,1 +1,1 @@
-from laptop
+from laptop desde laptop
